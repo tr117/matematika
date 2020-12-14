@@ -1,3 +1,0 @@
-1.Összeg vagy szorzat ?
-x+2
-
