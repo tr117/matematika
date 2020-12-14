@@ -1,0 +1,1 @@
+A Fáry-Wagner tétel szerint ha egy egyszerű gráf síkbarajzolható, akkor síkbarajzolható (egyenes) szakaszokkal is.
